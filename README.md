@@ -8,12 +8,13 @@ Both simulation on python and Matlab2019b are given.
 The multiparameter estimator under sensorless control is first introducted at:
 
 ```
-  @ARTICLE{10083049,
-  author={Liu, Zirui. Kong, Wubin. Fan, Xinggang. Wang, fei. and Qu, Ronghai},
-  journal={IEEE ECCE}, 
+@INPROCEEDINGS{10362894,
+  author={Liu, Zirui and Kong, Wubin and Fan, Xinggang and Wang, Fei and Qu, Ronghai},
+  booktitle={2023 IEEE Energy Conversion Congress and Exposition (ECCE)}, 
   title={Online Multiparameter Estimation with Position Error Correction for Unified Synchronous Machine Sensorless Drives}, 
   year={2023},
   volume={},
   number={},
-  pages={1-10},
+  pages={4882-4888},
+  doi={10.1109/ECCE53617.2023.10362894}}
 ```
