@@ -2,7 +2,8 @@
 This repository demonstrates the model-based adaptive observer for unified synchronous machine sensorless drives in full speed region.
 Both simulation on python and Matlab2019b are given.
 
-
+# Note
+The simulation in this repository is an earlier version proposed in ECCE 2023, where the speed ripple term within the observer is not added. Only the experiment code in embedded code for the manuscript in TIA (under review) is provided.
 
 # Citing
 The multiparameter estimator under sensorless control is first introducted at:
